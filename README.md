@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akschaudhary
-- 👀 I’m interested in solving data handling problems.
-- 🌱 I’m currently learning aws and advanced SQL.
+- 👀 I’m interested in solving data related problems.
+- 🌱 I’m currently learning AWS and advanced SQL.
 - 💞️ I’m looking to collaborate on anything related to data.
 - 📫 **aks_musings** on Instagram.
